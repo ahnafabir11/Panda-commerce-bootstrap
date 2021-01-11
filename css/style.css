@@ -1,0 +1,15 @@
+.custom-text-color {
+  color: #FF136F;
+}
+
+.catagory-img img {
+  width: 100px;
+}
+
+.custom-bg {
+  background-color: #fceae8;
+  border-radius: 1em;
+}
+.custom-btn {
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
